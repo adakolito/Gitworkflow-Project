@@ -1,0 +1,3 @@
+Developer 2 working on Feature2 of the CMS web page.
+
+This developer is handling the email notification part of the web page
